@@ -7,3 +7,5 @@ ORM using lucid
 Konfigure Database
 
 ```node ace configure @adonisjs/lucid```
+
+Changed
